@@ -1,0 +1,422 @@
+Start dataloader...
+End dataloader...
+epoch 0
+Trip : 3.0604 , ID : 0.0000 , Track_ID : 3.9715
+epoch 1
+Trip : 2.6273 , ID : 0.0000 , Track_ID : 3.9714
+epoch 2
+Trip : 1.6477 , ID : 0.0000 , Track_ID : 3.9714
+epoch 3
+Trip : 0.6992 , ID : 0.0000 , Track_ID : 3.9713
+epoch 4
+Trip : 0.3427 , ID : 0.0000 , Track_ID : 3.9712
+epoch 5
+Trip : 0.2378 , ID : 0.0000 , Track_ID : 3.9711
+epoch 6
+Trip : 0.3496 , ID : 0.0000 , Track_ID : 3.9712
+epoch 7
+Trip : 0.2762 , ID : 0.0000 , Track_ID : 3.9711
+epoch 8
+Trip : 0.2938 , ID : 0.0000 , Track_ID : 3.9710
+epoch 9
+CMC: 0.7778, mAP : 0.6401
+Trip : 0.3545 , ID : 0.0000 , Track_ID : 3.9710
+epoch 10
+Trip : 0.2503 , ID : 0.0000 , Track_ID : 3.9710
+epoch 11
+Trip : 0.2552 , ID : 0.0000 , Track_ID : 3.9710
+epoch 12
+Trip : 0.3211 , ID : 0.0000 , Track_ID : 3.9709
+epoch 13
+Trip : 0.3595 , ID : 0.0000 , Track_ID : 3.9709
+epoch 14
+Trip : 0.3191 , ID : 0.0000 , Track_ID : 3.9709
+epoch 15
+Trip : 0.1525 , ID : 0.0000 , Track_ID : 3.9711
+epoch 16
+Trip : 0.2263 , ID : 0.0000 , Track_ID : 3.9713
+epoch 17
+Trip : 0.2620 , ID : 0.0000 , Track_ID : 3.9714
+epoch 18
+Trip : 0.2091 , ID : 0.0000 , Track_ID : 3.9709
+epoch 19
+CMC: 0.7198, mAP : 0.5624
+Trip : 0.1782 , ID : 0.0000 , Track_ID : 3.9709
+epoch 20
+Trip : 0.2593 , ID : 0.0000 , Track_ID : 3.9711
+epoch 21
+Trip : 0.1621 , ID : 0.0000 , Track_ID : 3.9710
+epoch 22
+Trip : 0.2009 , ID : 0.0000 , Track_ID : 3.9709
+epoch 23
+Trip : 0.3423 , ID : 0.0000 , Track_ID : 3.9707
+epoch 24
+Trip : 0.1637 , ID : 0.0000 , Track_ID : 3.9708
+epoch 25
+Trip : 0.1217 , ID : 0.0000 , Track_ID : 3.9708
+epoch 26
+Trip : 0.1530 , ID : 0.0000 , Track_ID : 3.9708
+epoch 27
+Trip : 0.1944 , ID : 0.0000 , Track_ID : 3.9708
+epoch 28
+Trip : 0.1220 , ID : 0.0000 , Track_ID : 3.9707
+epoch 29
+CMC: 0.7536, mAP : 0.5654
+Trip : 0.1156 , ID : 0.0000 , Track_ID : 3.9707
+epoch 30
+Trip : 0.0503 , ID : 0.0000 , Track_ID : 3.9708
+epoch 31
+Trip : 0.1590 , ID : 0.0000 , Track_ID : 3.9708
+epoch 32
+Trip : 0.1042 , ID : 0.0000 , Track_ID : 3.9709
+epoch 33
+Trip : 0.0979 , ID : 0.0000 , Track_ID : 3.9712
+epoch 34
+Trip : 0.1489 , ID : 0.0000 , Track_ID : 3.9712
+epoch 35
+Trip : 0.1284 , ID : 0.0000 , Track_ID : 3.9708
+epoch 36
+Trip : 0.0914 , ID : 0.0000 , Track_ID : 3.9708
+epoch 37
+Trip : 0.0944 , ID : 0.0000 , Track_ID : 3.9707
+epoch 38
+Trip : 0.0586 , ID : 0.0000 , Track_ID : 3.9707
+epoch 39
+CMC: 0.7536, mAP : 0.6079
+Trip : 0.0650 , ID : 0.0000 , Track_ID : 3.9706
+epoch 40
+Trip : 0.0667 , ID : 0.0000 , Track_ID : 3.9707
+epoch 41
+Trip : 0.0268 , ID : 0.0000 , Track_ID : 3.9706
+epoch 42
+Trip : 0.0349 , ID : 0.0000 , Track_ID : 3.9707
+epoch 43
+Trip : 0.0584 , ID : 0.0000 , Track_ID : 3.9707
+epoch 44
+Trip : 0.0990 , ID : 0.0000 , Track_ID : 3.9710
+epoch 45
+Trip : 0.0708 , ID : 0.0000 , Track_ID : 3.9712
+epoch 46
+Trip : 0.0881 , ID : 0.0000 , Track_ID : 3.9709
+epoch 47
+Trip : 0.0403 , ID : 0.0000 , Track_ID : 3.9708
+epoch 48
+Trip : 0.0238 , ID : 0.0000 , Track_ID : 3.9707
+epoch 49
+CMC: 0.7923, mAP : 0.6323
+Trip : 0.0460 , ID : 0.0000 , Track_ID : 3.9706
+epoch 50
+Trip : 0.1204 , ID : 0.0000 , Track_ID : 3.9705
+epoch 51
+Trip : 0.0474 , ID : 0.0000 , Track_ID : 3.9705
+epoch 52
+Trip : 0.0589 , ID : 0.0000 , Track_ID : 3.9704
+epoch 53
+Trip : 0.1377 , ID : 0.0000 , Track_ID : 3.9704
+epoch 54
+Trip : 0.1067 , ID : 0.0000 , Track_ID : 3.9704
+epoch 55
+Trip : 0.0578 , ID : 0.0000 , Track_ID : 3.9704
+epoch 56
+Trip : 0.0693 , ID : 0.0000 , Track_ID : 3.9704
+epoch 57
+Trip : 0.1028 , ID : 0.0000 , Track_ID : 3.9704
+epoch 58
+Trip : 0.0506 , ID : 0.0000 , Track_ID : 3.9704
+epoch 59
+CMC: 0.7343, mAP : 0.5299
+Trip : 0.0337 , ID : 0.0000 , Track_ID : 3.9704
+epoch 60
+Trip : 0.0367 , ID : 0.0000 , Track_ID : 3.9704
+epoch 61
+Trip : 0.0444 , ID : 0.0000 , Track_ID : 3.9704
+epoch 62
+Trip : 0.0508 , ID : 0.0000 , Track_ID : 3.9704
+epoch 63
+Trip : 0.0457 , ID : 0.0000 , Track_ID : 3.9704
+epoch 64
+Trip : 0.0630 , ID : 0.0000 , Track_ID : 3.9704
+epoch 65
+Trip : 0.0205 , ID : 0.0000 , Track_ID : 3.9704
+epoch 66
+Trip : 0.0203 , ID : 0.0000 , Track_ID : 3.9704
+epoch 67
+Trip : 0.0483 , ID : 0.0000 , Track_ID : 3.9704
+epoch 68
+Trip : 0.0802 , ID : 0.0000 , Track_ID : 3.9704
+epoch 69
+CMC: 0.7729, mAP : 0.6060
+Trip : 0.0492 , ID : 0.0000 , Track_ID : 3.9704
+epoch 70
+Trip : 0.0244 , ID : 0.0000 , Track_ID : 3.9704
+epoch 71
+Trip : 0.0735 , ID : 0.0000 , Track_ID : 3.9704
+epoch 72
+Trip : 0.0535 , ID : 0.0000 , Track_ID : 3.9704
+epoch 73
+Trip : 0.0441 , ID : 0.0000 , Track_ID : 3.9704
+epoch 74
+Trip : 0.0906 , ID : 0.0000 , Track_ID : 3.9704
+epoch 75
+Trip : 0.0484 , ID : 0.0000 , Track_ID : 3.9704
+epoch 76
+Trip : 0.0851 , ID : 0.0000 , Track_ID : 3.9704
+epoch 77
+Trip : 0.0751 , ID : 0.0000 , Track_ID : 3.9704
+epoch 78
+Trip : 0.0491 , ID : 0.0000 , Track_ID : 3.9704
+epoch 79
+CMC: 0.7633, mAP : 0.5849
+Trip : 0.0378 , ID : 0.0000 , Track_ID : 3.9704
+epoch 80
+Trip : 0.0509 , ID : 0.0000 , Track_ID : 3.9704
+epoch 81
+Trip : 0.0132 , ID : 0.0000 , Track_ID : 3.9704
+epoch 82
+Trip : 0.0448 , ID : 0.0000 , Track_ID : 3.9704
+epoch 83
+Trip : 0.0469 , ID : 0.0000 , Track_ID : 3.9704
+epoch 84
+Trip : 0.0163 , ID : 0.0000 , Track_ID : 3.9704
+epoch 85
+Trip : 0.0360 , ID : 0.0000 , Track_ID : 3.9703
+epoch 86
+Trip : 0.0223 , ID : 0.0000 , Track_ID : 3.9704
+epoch 87
+Trip : 0.0430 , ID : 0.0000 , Track_ID : 3.9704
+epoch 88
+Trip : 0.0354 , ID : 0.0000 , Track_ID : 3.9704
+epoch 89
+CMC: 0.7536, mAP : 0.5707
+Trip : 0.0374 , ID : 0.0000 , Track_ID : 3.9703
+epoch 90
+Trip : 0.0559 , ID : 0.0000 , Track_ID : 3.9704
+epoch 91
+Trip : 0.0437 , ID : 0.0000 , Track_ID : 3.9703
+epoch 92
+Trip : 0.0364 , ID : 0.0000 , Track_ID : 3.9703
+epoch 93
+Trip : 0.0563 , ID : 0.0000 , Track_ID : 3.9703
+epoch 94
+Trip : 0.0391 , ID : 0.0000 , Track_ID : 3.9703
+epoch 95
+Trip : 0.0240 , ID : 0.0000 , Track_ID : 3.9703
+epoch 96
+Trip : 0.0275 , ID : 0.0000 , Track_ID : 3.9703
+epoch 97
+Trip : 0.0305 , ID : 0.0000 , Track_ID : 3.9703
+epoch 98
+Trip : 0.0394 , ID : 0.0000 , Track_ID : 3.9704
+epoch 99
+CMC: 0.7681, mAP : 0.6237
+Trip : 0.0337 , ID : 0.0000 , Track_ID : 3.9703
+epoch 100
+Trip : 0.0341 , ID : 0.0000 , Track_ID : 3.9704
+epoch 101
+Trip : 0.0462 , ID : 0.0000 , Track_ID : 3.9704
+epoch 102
+Trip : 0.0118 , ID : 0.0000 , Track_ID : 3.9703
+epoch 103
+Trip : 0.0195 , ID : 0.0000 , Track_ID : 3.9703
+epoch 104
+Trip : 0.0175 , ID : 0.0000 , Track_ID : 3.9703
+epoch 105
+Trip : 0.0262 , ID : 0.0000 , Track_ID : 3.9703
+epoch 106
+Trip : 0.0330 , ID : 0.0000 , Track_ID : 3.9703
+epoch 107
+Trip : 0.0532 , ID : 0.0000 , Track_ID : 3.9703
+epoch 108
+Trip : 0.0184 , ID : 0.0000 , Track_ID : 3.9703
+epoch 109
+CMC: 0.7536, mAP : 0.5781
+Trip : 0.0143 , ID : 0.0000 , Track_ID : 3.9703
+epoch 110
+Trip : 0.0031 , ID : 0.0000 , Track_ID : 3.9703
+epoch 111
+Trip : 0.0082 , ID : 0.0000 , Track_ID : 3.9703
+epoch 112
+Trip : 0.0350 , ID : 0.0000 , Track_ID : 3.9703
+epoch 113
+Trip : 0.0220 , ID : 0.0000 , Track_ID : 3.9703
+epoch 114
+Trip : 0.0607 , ID : 0.0000 , Track_ID : 3.9704
+epoch 115
+Trip : 0.0289 , ID : 0.0000 , Track_ID : 3.9703
+epoch 116
+Trip : 0.0156 , ID : 0.0000 , Track_ID : 3.9703
+epoch 117
+Trip : 0.0193 , ID : 0.0000 , Track_ID : 3.9703
+epoch 118
+Trip : 0.0614 , ID : 0.0000 , Track_ID : 3.9703
+epoch 119
+CMC: 0.7440, mAP : 0.5889
+Trip : 0.0146 , ID : 0.0000 , Track_ID : 3.9703
+epoch 120
+Trip : 0.0611 , ID : 0.0000 , Track_ID : 3.9703
+epoch 121
+Trip : 0.0121 , ID : 0.0000 , Track_ID : 3.9703
+epoch 122
+Trip : 0.0388 , ID : 0.0000 , Track_ID : 3.9703
+epoch 123
+Trip : 0.0236 , ID : 0.0000 , Track_ID : 3.9703
+epoch 124
+Trip : 0.0215 , ID : 0.0000 , Track_ID : 3.9704
+epoch 125
+Trip : 0.0230 , ID : 0.0000 , Track_ID : 3.9703
+epoch 126
+Trip : 0.0127 , ID : 0.0000 , Track_ID : 3.9703
+epoch 127
+Trip : 0.0266 , ID : 0.0000 , Track_ID : 3.9703
+epoch 128
+Trip : 0.0103 , ID : 0.0000 , Track_ID : 3.9703
+epoch 129
+CMC: 0.7729, mAP : 0.6146
+Trip : 0.0297 , ID : 0.0000 , Track_ID : 3.9703
+epoch 130
+Trip : 0.0228 , ID : 0.0000 , Track_ID : 3.9703
+epoch 131
+Trip : 0.0270 , ID : 0.0000 , Track_ID : 3.9703
+epoch 132
+Trip : 0.0372 , ID : 0.0000 , Track_ID : 3.9703
+epoch 133
+Trip : 0.0135 , ID : 0.0000 , Track_ID : 3.9703
+epoch 134
+Trip : 0.0568 , ID : 0.0000 , Track_ID : 3.9703
+epoch 135
+Trip : 0.0065 , ID : 0.0000 , Track_ID : 3.9703
+epoch 136
+Trip : 0.0364 , ID : 0.0000 , Track_ID : 3.9703
+epoch 137
+Trip : 0.0522 , ID : 0.0000 , Track_ID : 3.9703
+epoch 138
+Trip : 0.0220 , ID : 0.0000 , Track_ID : 3.9703
+epoch 139
+CMC: 0.7681, mAP : 0.6018
+Trip : 0.0427 , ID : 0.0000 , Track_ID : 3.9703
+epoch 140
+Trip : 0.0228 , ID : 0.0000 , Track_ID : 3.9703
+epoch 141
+Trip : 0.0131 , ID : 0.0000 , Track_ID : 3.9703
+epoch 142
+Trip : 0.0270 , ID : 0.0000 , Track_ID : 3.9703
+epoch 143
+Trip : 0.0535 , ID : 0.0000 , Track_ID : 3.9703
+epoch 144
+Trip : 0.0952 , ID : 0.0000 , Track_ID : 3.9703
+epoch 145
+Trip : 0.0420 , ID : 0.0000 , Track_ID : 3.9703
+epoch 146
+Trip : 0.0284 , ID : 0.0000 , Track_ID : 3.9703
+epoch 147
+Trip : 0.0185 , ID : 0.0000 , Track_ID : 3.9703
+epoch 148
+Trip : 0.0248 , ID : 0.0000 , Track_ID : 3.9703
+epoch 149
+CMC: 0.7681, mAP : 0.5942
+Trip : 0.0155 , ID : 0.0000 , Track_ID : 3.9703
+epoch 150
+Trip : 0.0280 , ID : 0.0000 , Track_ID : 3.9703
+epoch 151
+Trip : 0.0164 , ID : 0.0000 , Track_ID : 3.9703
+epoch 152
+Trip : 0.0481 , ID : 0.0000 , Track_ID : 3.9703
+epoch 153
+Trip : 0.0089 , ID : 0.0000 , Track_ID : 3.9703
+epoch 154
+Trip : 0.0425 , ID : 0.0000 , Track_ID : 3.9703
+epoch 155
+Trip : 0.0516 , ID : 0.0000 , Track_ID : 3.9703
+epoch 156
+Trip : 0.0096 , ID : 0.0000 , Track_ID : 3.9703
+epoch 157
+Trip : 0.0734 , ID : 0.0000 , Track_ID : 3.9703
+epoch 158
+Trip : 0.0476 , ID : 0.0000 , Track_ID : 3.9703
+epoch 159
+CMC: 0.7826, mAP : 0.6258
+Trip : 0.0317 , ID : 0.0000 , Track_ID : 3.9703
+epoch 160
+Trip : 0.0500 , ID : 0.0000 , Track_ID : 3.9703
+epoch 161
+Trip : 0.0531 , ID : 0.0000 , Track_ID : 3.9703
+epoch 162
+Trip : 0.0257 , ID : 0.0000 , Track_ID : 3.9703
+epoch 163
+Trip : 0.0108 , ID : 0.0000 , Track_ID : 3.9703
+epoch 164
+Trip : 0.0212 , ID : 0.0000 , Track_ID : 3.9703
+epoch 165
+Trip : 0.0358 , ID : 0.0000 , Track_ID : 3.9703
+epoch 166
+Trip : 0.0368 , ID : 0.0000 , Track_ID : 3.9703
+epoch 167
+Trip : 0.0369 , ID : 0.0000 , Track_ID : 3.9703
+epoch 168
+Trip : 0.0342 , ID : 0.0000 , Track_ID : 3.9703
+epoch 169
+CMC: 0.7778, mAP : 0.5985
+Trip : 0.0379 , ID : 0.0000 , Track_ID : 3.9703
+epoch 170
+Trip : 0.0059 , ID : 0.0000 , Track_ID : 3.9703
+epoch 171
+Trip : 0.0343 , ID : 0.0000 , Track_ID : 3.9703
+epoch 172
+Trip : 0.0768 , ID : 0.0000 , Track_ID : 3.9703
+epoch 173
+Trip : 0.0350 , ID : 0.0000 , Track_ID : 3.9703
+epoch 174
+Trip : 0.0121 , ID : 0.0000 , Track_ID : 3.9703
+epoch 175
+Trip : 0.0408 , ID : 0.0000 , Track_ID : 3.9703
+epoch 176
+Trip : 0.0538 , ID : 0.0000 , Track_ID : 3.9703
+epoch 177
+Trip : 0.0577 , ID : 0.0000 , Track_ID : 3.9703
+epoch 178
+Trip : 0.0559 , ID : 0.0000 , Track_ID : 3.9703
+epoch 179
+CMC: 0.7585, mAP : 0.5957
+Trip : 0.0207 , ID : 0.0000 , Track_ID : 3.9703
+epoch 180
+Trip : 0.0457 , ID : 0.0000 , Track_ID : 3.9703
+epoch 181
+Trip : 0.0300 , ID : 0.0000 , Track_ID : 3.9703
+epoch 182
+Trip : 0.0369 , ID : 0.0000 , Track_ID : 3.9703
+epoch 183
+Trip : 0.0468 , ID : 0.0000 , Track_ID : 3.9703
+epoch 184
+Trip : 0.0266 , ID : 0.0000 , Track_ID : 3.9703
+epoch 185
+Trip : 0.0360 , ID : 0.0000 , Track_ID : 3.9703
+epoch 186
+Trip : 0.0116 , ID : 0.0000 , Track_ID : 3.9703
+epoch 187
+Trip : 0.0103 , ID : 0.0000 , Track_ID : 3.9703
+epoch 188
+Trip : 0.0149 , ID : 0.0000 , Track_ID : 3.9703
+epoch 189
+CMC: 0.7536, mAP : 0.5862
+Trip : 0.0342 , ID : 0.0000 , Track_ID : 3.9703
+epoch 190
+Trip : 0.0162 , ID : 0.0000 , Track_ID : 3.9703
+epoch 191
+Trip : 0.0149 , ID : 0.0000 , Track_ID : 3.9703
+epoch 192
+Trip : 0.0711 , ID : 0.0000 , Track_ID : 3.9703
+epoch 193
+Trip : 0.0255 , ID : 0.0000 , Track_ID : 3.9703
+epoch 194
+Trip : 0.0180 , ID : 0.0000 , Track_ID : 3.9703
+epoch 195
+Trip : 0.0426 , ID : 0.0000 , Track_ID : 3.9703
+epoch 196
+Trip : 0.0342 , ID : 0.0000 , Track_ID : 3.9703
+epoch 197
+Trip : 0.0289 , ID : 0.0000 , Track_ID : 3.9703
+epoch 198
+Trip : 0.0205 , ID : 0.0000 , Track_ID : 3.9703
+epoch 199
+CMC: 0.7681, mAP : 0.6019
+Trip : 0.0617 , ID : 0.0000 , Track_ID : 3.9703

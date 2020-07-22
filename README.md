@@ -1,0 +1,1 @@
+It‘s the code of AmurTiger ReID project 2.0.
